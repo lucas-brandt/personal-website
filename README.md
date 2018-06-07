@@ -1,2 +1,2 @@
 # personal-website
-My personal website hosted at lucasbrandt.co.
+My personal website hosted at https://lucasbrandt.co/.
